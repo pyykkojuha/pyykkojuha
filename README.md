@@ -1,6 +1,6 @@
 ### pyykkojuha
 
-Mostly data visualization with `R`
+Mostly data visualization with `R` for research, fun, and #TidyTuesday
 
 <!--
 **pyykkojuha/pyykkojuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
