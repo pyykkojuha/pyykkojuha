@@ -2,9 +2,16 @@
 
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
 
-R-CODES: 
-- [tidytuesday](https://github.com/pyykkojuha/tidytuesday)
-- [various R visualizations](https://github.com/pyykkojuha/R)
+### R code: 
+- [tidytuesday // contributions to #TidyTuesday](https://github.com/pyykkojuha/tidytuesday)
+- [R // various data visualization](https://github.com/pyykkojuha/R)
+
+### Examples
+
+<img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_BULLS.png" width="50%">
+<img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_44/TIDY_2020_44.png" width="50%">
+
+
 
 <!--
 **pyykkojuha/pyykkojuha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
