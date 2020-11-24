@@ -1,6 +1,7 @@
 ### pyykkojuha
 
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
+Displayed at [Twitter](https://twitter.com/pyyxxo) and [web](http://pyyxxo.fi/pyyxxo).
 
 ### R code: 
 - [**tidytuesday** // contributions to #TidyTuesday](https://github.com/pyykkojuha/tidytuesday)
