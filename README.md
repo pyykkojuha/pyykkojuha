@@ -1,4 +1,4 @@
-### pyykkojuha
+### pyykkojuha | pyyxxo
 
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
 Displayed at [Twitter](https://twitter.com/pyyxxo) and [web](http://pyyxxo.fi/pyyxxo).
