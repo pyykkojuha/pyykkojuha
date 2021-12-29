@@ -10,7 +10,7 @@ Displayed at [Twitter](https://twitter.com/pyyxxo), [Instagram](https://instagra
 ### Examples:
 
 <img src="https://raw.githubusercontent.com/pyykkojuha/R/main/NBA/fig/PO_BULLS.png" width="45%"> 
-<img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_12/TIDY_2021_12.png" width="45%">
+<img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2021_12_900.png" width="45%">
 <img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_50/TIDY_2020_50_map.png" width="45%">
 
 
