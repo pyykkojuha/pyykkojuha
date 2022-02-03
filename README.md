@@ -1,7 +1,7 @@
-### pyykkojuha / P Y Y X X O
+### Juha Pyykkö / pyykkojuha / P Y Y X X O
 
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
-Displayed at [Twitter](https://twitter.com/pyyxxo), [Instagram](https://instagram.com/pyyxxo) and [web](http://pyyxxo.fi/pyyxxo).
+Displayed at [Twitter](https://twitter.com/pyyxxo), [Instagram](https://instagram.com/pyyxxo) and [web](http://pyyxxo.fi/pyyxxo) by PYYXXO.
 
 ### R code: 
 - [**tidytuesday** // contributions to #TidyTuesday](https://github.com/pyykkojuha/tidytuesday)
