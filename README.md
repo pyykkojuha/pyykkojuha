@@ -3,7 +3,7 @@
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
 Displayed at [Twitter](https://twitter.com/pyyxxo), [Instagram](https://instagram.com/pyyxxo) and [web](http://pyyxxo.fi/pyyxxo) by PYYXXO.
 
-### R code: 
+### Graphs with R code: 
 - [**tidytuesday** // contributions to #TidyTuesday](https://github.com/pyykkojuha/tidytuesday)
 - [**R** // various data visualization](https://github.com/pyykkojuha/R)
 
