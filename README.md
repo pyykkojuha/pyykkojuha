@@ -1,4 +1,4 @@
-### Dr. Juha Pyykkö / pyykkojuha / P Y Y X X O
+### Dr. Juha Pyykkö / PYYXXO
 
 Mostly data visualization with `R` for research, fun, and #TidyTuesday.
 Displayed at [Twitter](https://twitter.com/pyyxxo), [Instagram](https://instagram.com/pyyxxo), <a rel="me" href="https://vis.social/@pyyxxo">Mastodon</a> and [web](http://pyyxxo.fi/dataviz) by PYYXXO.
